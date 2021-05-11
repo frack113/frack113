@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frack113
 - 👀 I’m interested in security
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,Git
 - 💞️ I’m looking to collaborate on sigma or ECS.
 - 📫 How to reach me ...
 
